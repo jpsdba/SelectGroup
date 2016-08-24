@@ -1,0 +1,12 @@
+-- Criar pasta data
+mkdir C:\opensource\MongoDB-3.0\bin\data
+
+--Passasndo a pasta data para o serviço
+C:\opensource\MongoDB-3.0\bin\mongod --dbpath "C:\opensource\MongoDB-3.0\bin\data"
+
+--Chamando o mongo
+
+C:\opensource\MongoDB-3.0\bin\mongo.exe
+
+
+https://docs.google.com/document/d/1ZEaHjJtkUbWXQc-xlqKkr--MzwPex0__YKByYOMpO7U/pub
